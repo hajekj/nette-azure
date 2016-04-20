@@ -1,0 +1,21 @@
+{block content}
+
+<div>
+  <p>Hello {$user->getIdentity()->getData()['upn']}!</p>
+  <a href="/imgs">Image Board</a>
+  </br>
+  <a href="/auth/logout">Logout</a>
+</div>
+<hr>
+{control uploadImgForm}
+<hr>
+{foreach $images as $image}
+  <div style="width:200px;">
+    <img src="{$image['url']}" style="width:200px;"/>
+    <br></br>
+    {$image['name']}
+  </div>
+<br></br>
+{/foreach}
+
+{/block}

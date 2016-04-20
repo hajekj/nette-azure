@@ -1,0 +1,17 @@
+{block content}
+
+{if $user->loggedIn}
+<div>
+  <p>Hello {$user->getIdentity()->getData()['upn']}!</p>
+      <a href="/imgs">Image Board</a>
+      </br>
+      <a href="/auth/logout">Logout</a>
+</div>
+{else}
+<div>
+    <a href="/auth/azure">Login using Azure</a>
+  </br>
+  <a href="/php/info">phpinfo();</a>
+</div>
+{/if}
+{/block}
