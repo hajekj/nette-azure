@@ -21,4 +21,9 @@ if (file_exists(__DIR__ . '/config/config.local.neon')) $configurator->addConfig
 
 $container = $configurator->createContainer();
 
+if (!in_array($_SERVER['REMOTE_ADDR'],['127.0.0.1','::1'])) {
+	// Quick fix for HTTPS
+	\Nette\Application\Routers\Route::$defaultFlags |= \Nette\Application\IRouter::SECURED;
+}
+
 return $container;
