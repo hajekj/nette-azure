@@ -20,7 +20,7 @@ abstract class BasePresenter extends Nette\Application\UI\Presenter
         // AZURE AD AUTHENTICATION
         //
         // Obtain server's address so it can be dynamically used for both local and remove environments
-        $protocol = stripos($_SERVER['SERVER_PROTOCOL'],'https') === true ? 'https://' : 'http://';
+        $protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] != 'off') ? 'https://' : 'http://';
         $server = $protocol.$_SERVER['HTTP_HOST'];
         // Create provider for Azure AD authentication - https://msdn.microsoft.com/en-us/office/office365/howto/add-common-consent-manually
         $this->azureProvider = new \TheNetworg\OAuth2\Client\Provider\Azure([
