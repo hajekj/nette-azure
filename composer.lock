@@ -1,10 +1,9 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "hash": "794bf8bf4994e5e8251e5e5264c7f9fe",
     "content-hash": "dd2fef9568f672e0b2fe2ed641809aef",
     "packages": [
         {
@@ -24,7 +23,7 @@
             "type": "project",
             "notification-url": "https://packagist.org/downloads/",
             "description": "Customization for the best database management tool written in PHP, Adminer",
-            "time": "2016-02-06 21:42:41"
+            "time": "2016-02-06T21:42:41+00:00"
         },
         {
             "name": "firebase/php-jwt",
@@ -67,7 +66,7 @@
             ],
             "description": "A simple library to encode and decode JSON Web Tokens (JWT) in PHP. Should conform to the current spec.",
             "homepage": "https://github.com/firebase/php-jwt",
-            "time": "2015-07-22 18:31:08"
+            "time": "2015-07-22T18:31:08+00:00"
         },
         {
             "name": "guzzlehttp/guzzle",
@@ -129,7 +128,7 @@
                 "rest",
                 "web service"
             ],
-            "time": "2016-04-06 17:59:33"
+            "time": "2016-04-06T17:59:33+00:00"
         },
         {
             "name": "guzzlehttp/promises",
@@ -180,7 +179,7 @@
             "keywords": [
                 "promise"
             ],
-            "time": "2016-03-08 01:15:46"
+            "time": "2016-03-08T01:15:46+00:00"
         },
         {
             "name": "guzzlehttp/psr7",
@@ -238,7 +237,7 @@
                 "stream",
                 "uri"
             ],
-            "time": "2016-04-13 19:56:01"
+            "time": "2016-04-13T19:56:01+00:00"
         },
         {
             "name": "ircmaxell/random-lib",
@@ -292,7 +291,7 @@
                 "random-numbers",
                 "random-strings"
             ],
-            "time": "2016-02-22 13:55:31"
+            "time": "2016-02-22T13:55:31+00:00"
         },
         {
             "name": "ircmaxell/security-lib",
@@ -338,7 +337,7 @@
             ],
             "description": "A Base Security Library",
             "homepage": "https://github.com/ircmaxell/SecurityLib",
-            "time": "2015-03-20 14:31:23"
+            "time": "2015-03-20T14:31:23+00:00"
         },
         {
             "name": "latte/latte",
@@ -399,7 +398,7 @@
                 "templating",
                 "twig"
             ],
-            "time": "2016-04-10 20:53:30"
+            "time": "2016-04-10T20:53:30+00:00"
         },
         {
             "name": "league/oauth2-client",
@@ -462,7 +461,7 @@
                 "oauth2",
                 "single sign on"
             ],
-            "time": "2016-02-13 20:18:03"
+            "time": "2016-02-13T20:18:03+00:00"
         },
         {
             "name": "microsoft/windowsazure",
@@ -517,7 +516,7 @@
                 "php",
                 "sdk"
             ],
-            "time": "2016-04-14 23:22:45"
+            "time": "2016-04-14T23:22:45+00:00"
         },
         {
             "name": "nette/application",
@@ -585,7 +584,7 @@
             ],
             "description": "Nette Application MVC Component",
             "homepage": "https://nette.org",
-            "time": "2016-04-11 00:36:28"
+            "time": "2016-04-11T00:36:28+00:00"
         },
         {
             "name": "nette/bootstrap",
@@ -656,7 +655,7 @@
             ],
             "description": "Nette Bootstrap",
             "homepage": "https://nette.org",
-            "time": "2016-04-11 01:43:54"
+            "time": "2016-04-11T01:43:54+00:00"
         },
         {
             "name": "nette/caching",
@@ -714,7 +713,7 @@
             ],
             "description": "Nette Caching Component",
             "homepage": "https://nette.org",
-            "time": "2016-04-01 15:24:58"
+            "time": "2016-04-01T15:24:58+00:00"
         },
         {
             "name": "nette/component-model",
@@ -770,7 +769,7 @@
             ],
             "description": "Nette Component Model",
             "homepage": "https://nette.org",
-            "time": "2016-04-11 00:25:14"
+            "time": "2016-04-11T00:25:14+00:00"
         },
         {
             "name": "nette/database",
@@ -830,7 +829,7 @@
             ],
             "description": "Nette Database Component",
             "homepage": "https://nette.org",
-            "time": "2016-04-11 01:44:19"
+            "time": "2016-04-11T01:44:19+00:00"
         },
         {
             "name": "nette/di",
@@ -888,7 +887,7 @@
             ],
             "description": "Nette Dependency Injection Component",
             "homepage": "https://nette.org",
-            "time": "2016-04-11 01:44:30"
+            "time": "2016-04-11T01:44:30+00:00"
         },
         {
             "name": "nette/finder",
@@ -944,7 +943,7 @@
             ],
             "description": "Nette Finder: Files Searching",
             "homepage": "https://nette.org",
-            "time": "2016-04-11 00:25:51"
+            "time": "2016-04-11T00:25:51+00:00"
         },
         {
             "name": "nette/forms",
@@ -1004,7 +1003,7 @@
             ],
             "description": "Nette Forms: greatly facilitates web forms",
             "homepage": "https://nette.org",
-            "time": "2016-04-11 01:44:45"
+            "time": "2016-04-11T01:44:45+00:00"
         },
         {
             "name": "nette/http",
@@ -1064,7 +1063,7 @@
             ],
             "description": "Nette HTTP Component",
             "homepage": "https://nette.org",
-            "time": "2016-04-11 01:44:56"
+            "time": "2016-04-11T01:44:56+00:00"
         },
         {
             "name": "nette/mail",
@@ -1125,7 +1124,7 @@
             ],
             "description": "Nette Mail: Sending E-mails",
             "homepage": "https://nette.org",
-            "time": "2016-04-11 00:26:47"
+            "time": "2016-04-11T00:26:47+00:00"
         },
         {
             "name": "nette/neon",
@@ -1178,7 +1177,7 @@
             ],
             "description": "Nette NEON: parser & generator for Nette Object Notation",
             "homepage": "http://ne-on.org",
-            "time": "2016-04-01 14:36:33"
+            "time": "2016-04-01T14:36:33+00:00"
         },
         {
             "name": "nette/php-generator",
@@ -1234,7 +1233,7 @@
             ],
             "description": "Nette PHP Generator",
             "homepage": "https://nette.org",
-            "time": "2016-04-11 01:45:15"
+            "time": "2016-04-11T01:45:15+00:00"
         },
         {
             "name": "nette/reflection",
@@ -1293,7 +1292,7 @@
             ],
             "description": "Nette PHP Reflection Component",
             "homepage": "https://nette.org",
-            "time": "2016-04-11 01:45:25"
+            "time": "2016-04-11T01:45:25+00:00"
         },
         {
             "name": "nette/robot-loader",
@@ -1351,7 +1350,7 @@
             ],
             "description": "Nette RobotLoader: comfortable autoloading",
             "homepage": "https://nette.org",
-            "time": "2016-04-11 00:27:38"
+            "time": "2016-04-11T00:27:38+00:00"
         },
         {
             "name": "nette/safe-stream",
@@ -1406,7 +1405,7 @@
             ],
             "description": "Nette SafeStream: Atomic Operations",
             "homepage": "https://nette.org",
-            "time": "2016-03-19 13:06:04"
+            "time": "2016-03-19T13:06:04+00:00"
         },
         {
             "name": "nette/security",
@@ -1464,7 +1463,7 @@
             ],
             "description": "Nette Security: Access Control Component",
             "homepage": "https://nette.org",
-            "time": "2016-04-11 01:45:43"
+            "time": "2016-04-11T01:45:43+00:00"
         },
         {
             "name": "nette/utils",
@@ -1525,7 +1524,7 @@
             ],
             "description": "Nette Utility Classes",
             "homepage": "https://nette.org",
-            "time": "2016-04-11 00:12:08"
+            "time": "2016-04-11T00:12:08+00:00"
         },
         {
             "name": "pear/console_getopt",
@@ -1572,48 +1571,44 @@
                 }
             ],
             "description": "More info available on: http://pear.php.net/package/Console_Getopt",
-            "time": "2015-07-20 20:28:12"
+            "time": "2015-07-20T20:28:12+00:00"
         },
         {
             "name": "pear/http_request2",
-            "version": "v2.3.0",
+            "version": "v2.7.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/pear/HTTP_Request2.git",
-                "reference": "3599cf0fe455a4e281da464f6510bfc5c2ce54c4"
+                "reference": "b1c61b71128045734d757c4d3d436457ace80ea7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pear/HTTP_Request2/zipball/3599cf0fe455a4e281da464f6510bfc5c2ce54c4",
-                "reference": "3599cf0fe455a4e281da464f6510bfc5c2ce54c4",
+                "url": "https://api.github.com/repos/pear/HTTP_Request2/zipball/b1c61b71128045734d757c4d3d436457ace80ea7",
+                "reference": "b1c61b71128045734d757c4d3d436457ace80ea7",
                 "shasum": ""
             },
             "require": {
                 "pear/net_url2": "^2.2.0",
                 "pear/pear_exception": "^1.0.0",
-                "php": ">=5.2.0"
+                "php": ">=5.6.0"
+            },
+            "require-dev": {
+                "pear/log": "^1",
+                "yoast/phpunit-polyfills": "^1.0.0"
             },
             "suggest": {
+                "ext-curl": "Allows using cURL as a request backend.",
                 "ext-fileinfo": "Adds support for looking up mime-types using finfo.",
-                "ext-zlib": "Allows handling gzip compressed responses.",
-                "lib-curl": "Allows using cURL as a request backend.",
-                "lib-openssl": "Allows handling SSL requests when not using cURL."
+                "ext-openssl": "Allows handling SSL requests when not using cURL.",
+                "ext-zlib": "Allows handling gzip compressed responses."
             },
             "type": "library",
-            "extra": {
-                "branch-alias": {
-                    "dev-trunk": "2.2-dev"
-                }
-            },
             "autoload": {
                 "psr-0": {
                     "HTTP_Request2": ""
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
-            "include-path": [
-                "./"
-            ],
             "license": [
                 "BSD-3-Clause"
             ],
@@ -1624,14 +1619,19 @@
                 }
             ],
             "description": "Provides an easy way to perform HTTP requests.",
-            "homepage": "http://pear.php.net/package/HTTP_Request2",
+            "homepage": "https://pear.php.net/package/HTTP_Request2",
             "keywords": [
                 "PEAR",
                 "curl",
                 "http",
                 "request"
             ],
-            "time": "2016-02-13 20:20:39"
+            "support": {
+                "docs": "https://pear.php.net/manual/en/package.http.http-request2.php",
+                "issues": "https://github.com/pear/HTTP_Request2/issues",
+                "source": "https://github.com/pear/HTTP_Request2"
+            },
+            "time": "2025-04-06T13:48:50+00:00"
         },
         {
             "name": "pear/mail_mime",
@@ -1677,7 +1677,7 @@
             ],
             "description": "Mail_Mime provides classes to create MIME messages",
             "homepage": "http://pear.php.net/package/Mail_Mime",
-            "time": "2015-09-13 12:42:41"
+            "time": "2015-09-13T12:42:41+00:00"
         },
         {
             "name": "pear/mail_mime-decode",
@@ -1725,7 +1725,7 @@
                 }
             ],
             "description": "More info available on: http://pear.php.net/package/Mail_mimeDecode",
-            "time": "2014-04-15 19:29:16"
+            "time": "2014-04-15T19:29:16+00:00"
         },
         {
             "name": "pear/net_url2",
@@ -1733,12 +1733,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/pear/Net_URL2.git",
-                "reference": "fa9b1ecb3c3e640d4a54d58d681a4cb7524f209e"
+                "reference": "c1f2b316ed9b05e881cdb494f7550ddf817c76c8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pear/Net_URL2/zipball/fa9b1ecb3c3e640d4a54d58d681a4cb7524f209e",
-                "reference": "fa9b1ecb3c3e640d4a54d58d681a4cb7524f209e",
+                "url": "https://api.github.com/repos/pear/Net_URL2/zipball/c1f2b316ed9b05e881cdb494f7550ddf817c76c8",
+                "reference": "c1f2b316ed9b05e881cdb494f7550ddf817c76c8",
                 "shasum": ""
             },
             "require": {
@@ -1747,6 +1747,7 @@
             "require-dev": {
                 "phpunit/phpunit": ">=3.3.0"
             },
+            "default-branch": true,
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -1759,17 +1760,20 @@
                 ]
             },
             "notification-url": "https://packagist.org/downloads/",
+            "include-path": [
+                "./"
+            ],
             "license": [
                 "BSD-3-Clause"
             ],
             "authors": [
                 {
-                    "name": "David Coallier",
-                    "email": "davidc@php.net"
-                },
-                {
                     "name": "Tom Klingenberg",
                     "email": "tkli@php.net"
+                },
+                {
+                    "name": "David Coallier",
+                    "email": "davidc@php.net"
                 },
                 {
                     "name": "Christian Schmidt",
@@ -1786,7 +1790,11 @@
                 "uri",
                 "url"
             ],
-            "time": "2015-04-18 17:36:57"
+            "support": {
+                "issues": "https://pear.php.net/bugs/search.php?cmd=display&package_name[]=Net_URL2",
+                "source": "https://github.com/pear/Net_URL2"
+            },
+            "time": "2025-03-24T08:03:00+00:00"
         },
         {
             "name": "pear/pear-core-minimal",
@@ -1830,7 +1838,7 @@
                 }
             ],
             "description": "Minimal set of PEAR core files to be used as composer dependency",
-            "time": "2015-10-17 14:12:29"
+            "time": "2015-10-17T14:12:29+00:00"
         },
         {
             "name": "pear/pear_exception",
@@ -1838,20 +1846,21 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/pear/PEAR_Exception.git",
-                "reference": "8c18719fdae000b690e3912be401c76e406dd13b"
+                "reference": "645d1af08bdd9a6b9bb6d3b81eb8e235ca84d1d1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pear/PEAR_Exception/zipball/8c18719fdae000b690e3912be401c76e406dd13b",
-                "reference": "8c18719fdae000b690e3912be401c76e406dd13b",
+                "url": "https://api.github.com/repos/pear/PEAR_Exception/zipball/645d1af08bdd9a6b9bb6d3b81eb8e235ca84d1d1",
+                "reference": "645d1af08bdd9a6b9bb6d3b81eb8e235ca84d1d1",
                 "shasum": ""
             },
             "require": {
-                "php": ">=4.4.0"
+                "php": ">=5.2.0"
             },
             "require-dev": {
-                "phpunit/phpunit": "*"
+                "phpunit/phpunit": "<9"
             },
+            "default-branch": true,
             "type": "class",
             "extra": {
                 "branch-alias": {
@@ -1859,9 +1868,9 @@
                 }
             },
             "autoload": {
-                "psr-0": {
-                    "PEAR": ""
-                }
+                "classmap": [
+                    "PEAR/"
+                ]
             },
             "notification-url": "https://packagist.org/downloads/",
             "include-path": [
@@ -1885,7 +1894,11 @@
             "keywords": [
                 "exception"
             ],
-            "time": "2015-02-10 20:07:52"
+            "support": {
+                "issues": "https://pear.php.net/bugs/search.php?cmd=display&package_name%5B%5D=PEAR_Exception",
+                "source": "https://github.com/pear/PEAR_Exception"
+            },
+            "time": "2024-11-24T18:10:39+00:00"
         },
         {
             "name": "psr/http-message",
@@ -1934,7 +1947,7 @@
                 "request",
                 "response"
             ],
-            "time": "2015-05-04 20:22:00"
+            "time": "2015-05-04T20:22:00+00:00"
         },
         {
             "name": "thenetworg/oauth2-azure",
@@ -1985,7 +1998,7 @@
                 "oauth2",
                 "windows azure"
             ],
-            "time": "2016-03-01 17:13:12"
+            "time": "2016-03-01T17:13:12+00:00"
         },
         {
             "name": "tracy/tracy",
@@ -2045,7 +2058,7 @@
                 "debugger",
                 "nette"
             ],
-            "time": "2016-04-13 20:29:38"
+            "time": "2016-04-13T20:29:38+00:00"
         }
     ],
     "packages-dev": [
@@ -2103,7 +2116,7 @@
                 "testing",
                 "unit"
             ],
-            "time": "2016-03-19 14:34:02"
+            "time": "2016-03-19T14:34:02+00:00"
         }
     ],
     "aliases": [],
@@ -2116,5 +2129,6 @@
     "platform": {
         "php": ">=5.6.0"
     },
-    "platform-dev": []
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
 }
